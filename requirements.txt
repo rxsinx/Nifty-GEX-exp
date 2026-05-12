@@ -1,0 +1,9 @@
+kiteconnect
+pandas
+numpy
+greeks-package
+tabulate
+openpyxl
+python-dotenv
+requests
+colorama
